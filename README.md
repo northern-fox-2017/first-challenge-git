@@ -14,5 +14,5 @@ Oleh karena itu saya membulatkan niat untuk ikut kedalam coding bootcamp di Hack
 Yang ingin saya dapatkan tentu saja ilmu programming serta penggunaan tools-tools nya. Setelah lulus dari Hacktiv8 saya ingin menjadi programmer 
 dan mencari pengalaman kerja di perusahaan-perusahaan. Sedangkan goal jangka panjang saya adalah membuka startup sendiri. 
 
-[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya) tidak ada
 
