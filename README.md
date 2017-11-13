@@ -4,7 +4,7 @@ Saya seorang sarjana bisnis manajemen, sebelumnya belum pernah belajar banyak te
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
-Saya mempunyai mimpi untuk membuat company sendiri. Namun, sebagai sarjana lulusan bisnis manajemen, tantangan yang berikutnya adalah ingin masuk ke industri mana untuk membuat sebuah bisnis. Di sini saya memilih digital sebagai industri yang ingin saya dalami. Dan di sisi lain, momentum bisnis digital di Indonesia juga lagi mendukung banget.
+Saya mempunyai mimpi untuk membuat company sendiri. Namun, sebagai sarjana lulusan bisnis manajemen, tantangan yang berikutnya adalah ingin masuk ke industri mana untuk membuat sebuah bisnis. Oleh karena itu, saya memilih digital sebagai industri yang ingin saya dalami. Dan di sisi lain, momentum bisnis digital di Indonesia juga lagi mendukung banget.
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
