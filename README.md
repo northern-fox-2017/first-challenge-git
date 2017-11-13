@@ -8,6 +8,6 @@ Saya mempunyai mimpi untuk membuat company sendiri. Namun, sebagai sarjana lulus
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
-Di Hacktiv8 saya ingin memanfaatkan waktu sebaik-baiknya untuk belajar coding selama 3 bulan dan bisa lulus dengan paling tidak dengan predikat honors.
+Di Hacktiv8 saya ingin memanfaatkan waktu sebaik-baiknya untuk belajar coding selama 3 bulan dan bisa lulus dengan predikat honors.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
